@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alset-activities/static/css/main.f855e6bc.css",
-    "main.js": "/alset-activities/static/js/main.a7ec561f.js",
+    "main.js": "/alset-activities/static/js/main.efbcad03.js",
     "static/js/787.21bc6e5e.chunk.js": "/alset-activities/static/js/787.21bc6e5e.chunk.js",
     "index.html": "/alset-activities/index.html",
     "main.f855e6bc.css.map": "/alset-activities/static/css/main.f855e6bc.css.map",
-    "main.a7ec561f.js.map": "/alset-activities/static/js/main.a7ec561f.js.map",
+    "main.efbcad03.js.map": "/alset-activities/static/js/main.efbcad03.js.map",
     "787.21bc6e5e.chunk.js.map": "/alset-activities/static/js/787.21bc6e5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a7ec561f.js"
+    "static/js/main.efbcad03.js"
   ]
 }
